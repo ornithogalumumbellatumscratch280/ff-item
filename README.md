@@ -1,3 +1,11 @@
+# 🚀 FF Item Library
+
+[![Website](https://img.shields.io/badge/Website-ff--item.netlify.app-blue)](https://ff-item.netlify.app)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-green)]()
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
+
+---
+
 # 🚀 FF Item Library — Free Fire Items Database & Explorer
 
 Welcome to **FF Item Library** — a powerful, fast, and user‑friendly **Free Fire item search and explorer tool** designed for players, collectors, and Free Fire enthusiasts. 🔥  
@@ -7,8 +15,19 @@ This web app enables you to **search, filter, preview, and explore** Free Fire i
 
 ## 🌐 Live Demo
 
-👉 https://ff-item.netlify.app/  
-Live site hosted on Netlify with fast performance and responsive design, accessible on desktop and mobile devices.
+👉 [ff-item.netlify.app](https://ff-item.netlify.app)  
+Live site hosted with fast performance and responsive design, accessible on desktop and mobile devices.
+
+---
+
+## 🎯 Features
+
+- 🔍 **Smart Search:** Search by name, category, or rarity  
+- 📊 **Categorized Items:** Weapons, Bundles, Characters, Pets, Emotes, Loot crates, Cosmetic items  
+- ⚡ **Fast Loading:** Static site hosted
+- 📱 **Responsive Design:** Works on desktop, tablet, and mobile  
+- 📝 **Item Details:** View item ID, description, and copy data easily  
+- 🔗 **Backlink Ready:** SEO-friendly structure
 
 ---
 
@@ -62,7 +81,7 @@ FF Item Library provides a **central searchable reference** to easily find item 
 This site uses modern web standards for best speed and compatibility:
 - HTML5 / CSS3 / JavaScript  
 - Responsive design for mobile & desktop use
-- Fast static hosting via Netlify
+- Fast static hosting
 
 No backend or database required — it’s a static web app that loads data efficiently and instantly.
 
@@ -93,4 +112,19 @@ Let’s make item browsing easier and faster for players everywhere 💥
 
 ---
 
-Happy browsing and Booyah! 🏆🔥
+## 📦 Packages & Dependencies
+
+- JavaScript (ES6)  
+- HTML5 / CSS3  
+- Optional: JSON files for static item data  
+- Static hosting via **GitHub**
+
+---
+
+## 🚀 Deployment
+
+This project is deployed as a **static web app** on Netlify:
+
+```text
+Live Site: https://ff-item.netlify.app
+Auto Deploy: Enabled (GitHub builds)
