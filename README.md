@@ -6,7 +6,7 @@
 
 ---
 
-# 🚀 FF Item Library — Free Fire Items Database & Explorer
+# 💽 Free Fire Items Database & Explorer
 
 Welcome to **FF Item Library** — a powerful, fast, and user‑friendly **Free Fire item search and explorer tool** designed for players, collectors, and Free Fire enthusiasts. 🔥  
 This web app enables you to **search, filter, preview, and explore** Free Fire items with ease. Whether it’s weapon skins, characters, emotes, backpacks, bundles, pets or other in‑game cosmetics — find them all in one place!
@@ -123,7 +123,7 @@ Let’s make item browsing easier and faster for players everywhere 💥
 
 ## 🚀 Deployment
 
-This project is deployed as a **static web app** on Netlify:
+This project is deployed as a **static web app** on GitHub:
 
 ```text
 Live Site: https://ff-item.netlify.app
